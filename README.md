@@ -11,7 +11,7 @@ The monorepo is using [Turborepo](https://turborepo.org/) and [npm workspaces](h
 
 ## Demo
 
-https://solutions-monorepo.vercel.sh
+TBA
 
 ## How to Use
 
