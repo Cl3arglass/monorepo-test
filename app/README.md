@@ -7,3 +7,5 @@ npm run dev -w=app
 ```
 
 The app should be up and running at http://localhost:3000.
+
+The inner workings.
